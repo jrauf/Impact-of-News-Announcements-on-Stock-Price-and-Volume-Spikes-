@@ -1,2 +1,16 @@
 # Impact-of-News-Announcements-on-Stock-Price-and-Volume-Spikes-
 Impact of News Announcements on Stock Price and Volume Spikes 
+
+Dataset Citation
+
+This project utilizes data from:
+
+	FNSPID: A Comprehensive Financial News Dataset in Time Series
+Zihan Dong, Xinyu Fan, Zhiyuan Peng (2024)
+arXiv preprint
+
+Features
+	•	Retrieves stock price data for a given stock ticker.
+	•	Collects and filters relevant news articles.
+	•	Compares news sentiment with stock price movements.
+	•	Analyzes volume spikes in relation to news events.
