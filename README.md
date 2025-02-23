@@ -3,7 +3,7 @@ Impact of News Announcements on Stock Price and Volume Spikes
 
 ## Contributing
 
-This project was created and maintained by **[Joshua Rauf]**. As the sole contributor as part of a larger statisitcs course project, I welcome feedback and suggestions.
+This project was created and maintained by **[Joshua Rauf]**. As sole contributor to the code, but as part of a larger statisitcs course project.
 
 Dataset Citation
 
